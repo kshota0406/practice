@@ -1,0 +1,28 @@
+table {
+    border: solid black;
+    text-align: center;
+}
+#cart {
+    height: 100px;
+}
+.list0{
+    color: red;
+}
+.list1{
+    color: blue;
+}
+ul{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column-reverse;
+    list-style: none;
+    padding: 0;
+}
+li{
+    list-style: none   ;
+}
+
+.color{
+    color: red;
+    background-color: black;
+}
